@@ -1,3 +1,3 @@
 # CajaLista
 
-Descargas de CajaLista para Windows. Instrucciones: https://cajalista-descargas.pages.dev/
+Descargas de CajaLista para Windows. Instrucciones: https://cajalistapos.pages.dev/
